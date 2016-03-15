@@ -1,3 +1,3 @@
 ## Regression
 
-https://www.coursera.org/learn/ml-regression/home/welcome
+https://www.coursera.org/learn/ml-regression
